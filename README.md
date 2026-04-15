@@ -24,3 +24,4 @@ A festive C++ terminal application developed as a school project. It features hi
 
 ## 👤 Author
 - Pedro Navarro - https://github.com/navarro-pt
+Note: This was my first project. It has some known bugs in the game logic that I decided to keep as a reminder of my learning journey.
